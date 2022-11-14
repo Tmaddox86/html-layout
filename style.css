@@ -1,0 +1,58 @@
+
+   span {
+    display: inline-block;
+    background-color: lightblue;
+    padding: 5px;
+    border: 3px solid darkgray;
+  } 
+  
+  body {
+    text-align:center;
+  }
+
+/*#pic {
+  height: 30%;
+  width:100%;
+  float: left;
+}
+   
+  #one {
+    background-color:lightblue;
+    width: 150px;
+    height: 200px;
+  }
+  
+  #two {
+    background-color: cornflowerblue;
+    width: 200px;
+    height: 50px;
+  }
+  
+  #three {
+    background-color: rgb(187, 189, 243);
+    width: 175px;
+    height: 150px;
+  } */
+  
+  /* div,
+  span {
+    margin: 1px;
+  }*/
+  
+  /*span, div {
+    border: 1px solid #333;
+    
+    padding: 10px 15px;
+  }
+  
+ /* #pics span{
+    border: 5px,solid,black;
+  }
+  #text span {
+    padding: 25px 30px;
+    border:5px, solid, black;
+  }
+  
+  #text span {
+    background-color: white;
+  } */
